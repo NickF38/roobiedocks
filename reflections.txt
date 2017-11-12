@@ -1,0 +1,21 @@
+You've learned a lot about web development so far. 
+I want you to take a moment to write down your thoughts about web development here.
+Answer the following questions:
+  
+* What new skills have you learned?
+  
+* What has been easy?
+  
+* What has been difficult?
+  
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+---
+
+Your response goes here!
+*Nes skills: HTML syntax. Use of MDN, use of parenting. new tags learned for the project, <sup></sup>, <hr></hr>, <del></del>
+*Most of it was easy. MDN is extremely hlepful. the design of the course facilitates the flow of the lessons quite easily. 
+*To write correct syntax, most of the mistakes were typos.
+*With extra attention to write correct syntax, avoid typos, improve nesting and tree html, thorough search and reading from MDN
+
